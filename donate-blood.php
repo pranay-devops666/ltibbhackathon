@@ -29,7 +29,7 @@ class script{
 
         public function __construct(){
 
-                $server = "mysqldb";
+                $server = "mysqqldb";
                 $user = "root";
                 $pass = "admin123";
                 $db = "customers";
